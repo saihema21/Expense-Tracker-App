@@ -45,8 +45,8 @@ Expense-Tracker-App/
 
 ## 📸 Output Screenshots
 
-![Dashboard](images/dashboard.png)
-
+![Dashboard](images/dashboard (1).png)
+![Dashboard](images/dashboard (2).png)
 ---
 
 ## 📊 Key Insights
