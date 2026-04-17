@@ -1,0 +1,16 @@
+Date,Category,Description,Amount,Type,Month,Day,Weekday
+2024-01-01,Food,Lunch,250,Expense,January,1,Monday
+2024-01-02,Transport,Bus ticket,100,Expense,January,2,Tuesday
+2024-01-03,Rent,House rent,10000,Expense,January,3,Wednesday
+2024-01-04,Salary,Monthly salary,50000,Income,January,4,Thursday
+2024-01-05,Shopping,Clothes,2000,Expense,January,5,Friday
+2024-01-06,Food,Dinner,300,Expense,January,6,Saturday
+2024-01-07,Bills,Electricity bill,1500,Expense,January,7,Sunday
+2024-01-08,Travel,Train ticket,800,Expense,January,8,Monday
+2024-01-09,Food,Snacks,150,Expense,January,9,Tuesday
+2024-01-10,Transport,Auto fare,120,Expense,January,10,Wednesday
+2024-01-11,Salary,Bonus,10000,Income,January,11,Thursday
+2024-01-12,Shopping,Shoes,2500,Expense,January,12,Friday
+2024-01-13,Bills,Internet bill,700,Expense,January,13,Saturday
+2024-01-14,Food,Lunch,200,Expense,January,14,Sunday
+2024-01-15,Travel,Flight ticket,5000,Expense,January,15,Monday
